@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Premium Watch Store**
 
-- 📫 How to reach me **https://t.me/OskarSR**
+- 📫 How to reach me **oskar.stud@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
