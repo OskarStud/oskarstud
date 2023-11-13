@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Oskar, fullstack developer</h1>
+<h1 align="center">Hello, I'm Oskar, frontend developer</h1>
 <h3 align="center">A passionate frontend developer from Worldwide</h3>
 
 - 🔭 I’m currently working on **Premium Watch Store**
