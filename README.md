@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Oskar, frontend developer</h1>
 <h3 align="center">A passionate frontend developer from Worldwide</h3>
 
-- 🔭 I’m currently working on **Premium Watch Store**
+- 🔭 I’m currently working on Personal Account of digital signatures
 
 - 📫 How to reach me **oskar.stud@gmail.com**
 
